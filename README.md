@@ -1,2 +1,2 @@
-# 8085Simulator
-A simulator of 8085 micro processor that performs almost all the operations in assembly language
+# 8085-Simulator
+A 8085 Simulator that performs almost all the operations of 8085 microprocessor in assembly language.
